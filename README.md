@@ -29,5 +29,4 @@ The T01 system represents each trit as:
 
 This encoding simplifies arithmetic and supports compact ternary logic circuits.
 
-## License
-Provided for experimental research purposes only. You use it on your own risk :-).
+**Disclaimer:** Provided for experimental research purposes only. You use this code at your own risk.
